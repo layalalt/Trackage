@@ -1,0 +1,46 @@
+{
+  "reservations": [
+    {
+      "bag_id": "RUH-17321",
+      "claim_option": "SLHS Electronic Gates",
+      "reservation_id": "RES-12319",
+      "number_of_bags": 3,
+      "passenger_phone_number": "+9715089059722",
+      "login_password": "6",
+      "flight_number": "SV1234",
+      "delivery_address": "123 Airport Road, Terminal City, Kingdom",
+      "time_in_transit": "2.4 hours",
+      "estimated_arrival_time": "03:30",
+      "pickup_gate": "5B",
+      "luggage_status": "in transit"
+    },
+    {
+      "bag_id": "RUH-54321",
+      "claim_option": "Delivery",
+      "reservation_id": "RES-54321",
+      "number_of_bags": 2,
+      "passenger_phone_number": "+971-504567890",
+      "login_password": "SecuR3P@ss!",
+      "flight_number": "EK5678",
+      "delivery_address": "456 Main Street, Dubai, UAE",
+      "time_in_transit": "1.8 hours",
+      "estimated_arrival_time": "12:45",
+      "pickup_gate": null,
+      "luggage_status": "ready to be claimed"
+    },
+    {
+      "bag_id": "RUH-76543",
+      "claim_option": "Pickup Outside the Terminal",
+      "reservation_id": "RES-98765",
+      "number_of_bags": 1,
+      "passenger_phone_number": "+1-2025557890",
+      "login_password": "P@ssw0rd789!",
+      "flight_number": "AA765",
+      "delivery_address": null,
+      "time_in_transit": "3.2 hours",
+      "estimated_arrival_time": "16:20",
+      "pickup_gate": "3C",
+      "luggage_status": "unknown"
+    }
+  ]
+}
